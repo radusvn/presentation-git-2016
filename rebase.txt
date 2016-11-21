@@ -1,0 +1,12 @@
+1. What rebase is
+2. What can rebase do
+2. When and why is it used in real life
+
+
+DEMO
+----
+1. Move commits on top of 
+2. Squash commits
+3. Amend commits
+4. Explore other commit options while rebasing
+

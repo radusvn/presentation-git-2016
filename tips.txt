@@ -1,0 +1,6 @@
+- Squash commits 
+- Rebase against Merge
+- Dependent branches
+- .lock files
+- Pushing refs - push branch
+- Reflog

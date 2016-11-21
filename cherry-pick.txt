@@ -1,3 +1,9 @@
+1. What cherry pick is
+2. When and why is it used in real life
+
+
+DEMO
+----
 1. simple cherry pick
 2. second simple, straightforward cherry-pick
 3. cherry pick update for previously not existing file
@@ -5,5 +11,6 @@
 5. cherry pick multiple commits at once
 
 
-Notes: 
+Notes 
+-----
     - commits hash change.
