@@ -4,3 +4,4 @@
 - .lock files
 - Pushing refs - push branch
 - Reflog
+- Merge message - after solving conflicts
