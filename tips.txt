@@ -6,3 +6,4 @@
 - Reflog
 - Merge message - after solving conflicts
 - Stash
+- Grep
